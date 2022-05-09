@@ -1,4 +1,4 @@
-package com.regula.dr.fullrfid;
+package com.regula.dr.fullrfidtestando;
 
 import com.facebook.react.ReactActivity;
 
